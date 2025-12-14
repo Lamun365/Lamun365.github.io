@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle:  <a href="https://www.inf.ufrgs.br/site/en/">Institute of Informatics</a> at <a href="http://www.ufrgs.br/english/home">Federal University of Rio Grande do Sul (UFRGS)</a> <br>lnalegre@inf.ufrgs.br
+subtitle:  <a href="https://cuet.ac.bd/department/CE">Department of Civil Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology (CUET)</a> <br>u2101093@student.cuet.ac.bd
 
 profile:
   align: right
