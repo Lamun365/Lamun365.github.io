@@ -19,13 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <hr>
-I am a Professor at the <a href="https://www.inf.ufrgs.br/site/en/">Institute of Informatics</a> at the <a href="http://www.ufrgs.br/english/home">Federal University of Rio Grande do Sul (UFRGS)</a>. I hold a Ph.D. in Computer Science from this same university, where I was advised by Prof. <a href="https://www.inf.ufrgs.br/~bazzan/">Ana Bazzan</a> and Prof. <a href="https://people.cs.umass.edu/~bsilva">Bruno C. da Silva</a>.
-Part of my Ph.D. was done in the <a href="https://ai.vub.ac.be/">AI Lab</a> at the <a href="https://www.vub.be/">Vrije Universiteit Brussel (VUB)</a> under the supervision of Prof. <a href="https://ai.vub.ac.be/team/ann-nowe/">Ann Nowé</a>.
-
-I am also part of the <a href="https://farama.org/team">Farama Foundation</a>, a nonprofit organization that maintains the largest open-source RL libraries in the world.
-
-I completed my B.Sc. in Computer Science <i>cum laude</i> at the <a href="http://www.ufrgs.br/english/home">Federal University of Rio Grande do Sul</a> in 2020.
-My undergraduate thesis, advised by Prof. <a href="https://people.cs.umass.edu/~bsilva">Bruno C. da Silva</a>, tackled the problem of reinforcement learning in continuous non-stationary environments.
+I am an undergraduate student in the <a href="https://cuet.ac.bd/department/CE">Department of Civil Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology (CUET).
 
 <!-- In Winter of 2020, I worked as an intern researcher at the <a href="https://www.tu.berlin/en/">Technische Universität Berlin</a>, under supervision of Prof. <a href="https://www.tu.berlin/vsp/ueber-uns/fachgebietsleitung">Kai Nagel</a>. -->
 
