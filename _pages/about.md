@@ -25,10 +25,8 @@ I am an undergraduate student in the <a href="https://cuet.ac.bd/department/CE">
 
 <hr>
 <i>
-My main research interests are in reinforcement learning (RL) and its use to empower artificial intelligence (AI) agents to solve real-world problems.
+My main research interests are applying machine learning (ML) and artificial intelligence (AI) in transportation and structural engineering to develop data-driven solutions for traffic optimization and structural health monitoring.
 </i>
-
-<i><mark style="background: rgba(0, 118, 223, 0.1)">In my <a href="https://lume.ufrgs.br/handle/10183/290816">Ph.D. Thesis</a>, I tackled the problem of <strong>how to design principled sample-efficient RL algorithms capable of learning multiple behaviors that can be combined to solve multi-task and multi-objective problems.</strong></mark></i>
 <hr>
 
 
