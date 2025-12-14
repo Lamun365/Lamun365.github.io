@@ -1,0 +1,7 @@
+github_users:
+  - LucasAlegre
+
+github_repos:
+  - LucasAlegre/morl-baselines
+  - Farama-Foundation/MO-Gymnasium
+  - LucasAlegre/sumo-rl
