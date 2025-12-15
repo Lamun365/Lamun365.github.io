@@ -9,8 +9,7 @@ last_name: Lamun
 email: u2101093@student.cuet.ac.bd
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
    Lamun's web page.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: 
 keywords: reinforcement learning, transfer learning, multi-objective RL  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
