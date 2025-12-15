@@ -268,8 +268,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [N. Alegre, Alegre, Nunes Alegre]
-  first_name: [Lucas, Lucas N.]
+  last_name: [Lamun]
+  first_name: [Sayed Shahriar Islam]
 
   style: apa
   locale: en
